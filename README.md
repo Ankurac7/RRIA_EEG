@@ -1,5 +1,10 @@
 # Real time classification of EEG signals using Machine Learning deployment
 
+This is the official implementation corresponding to 
+
+1) Real time classification of EEG signals using Machine Learning deployment [(Paper)](https://rria.ici.ro/documents/1226/art._1_Chowdhuri_et_al_India.pdf)
+
+## Abstract of the Paper 
 The prevailing educational methods predominantly rely on traditional classroom instruction or
 online delivery, often limiting the teachers’ ability to engage effectively with all the students simultaneously.
 A more intrinsic method of evaluating student attentiveness during lectures can enable the educators to tailor
@@ -18,9 +23,7 @@ through the implementation of innovative technologies and provides a framework f
 considerations for future research directions.
 
 
-This is the official implementation corresponding to 
 
-1) Real time classification of EEG signals using Machine Learning deployment [(Paper)](https://rria.ici.ro/documents/1226/art._1_Chowdhuri_et_al_India.pdf)
 
 Please cite the following article if you use this model.
 ```
