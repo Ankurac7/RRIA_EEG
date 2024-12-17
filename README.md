@@ -25,7 +25,7 @@ considerations for future research directions.
 
 
 
-Please cite the following article if you use this model.
+Please cite the following article if you use our work.
 ```
 Swati CHOWDHURI, Satadip SAHA, Samadrita KARMAKAR, Ankur CHANDA, "Real time classification of EEG signals using Machine Learning deployment", Romanian Journal of Information Technology and Automatic Control, ISSN 1220-1758, vol. 34(4), pp. 7-18, 2024. https://doi.org/10.33436/v34i4y202401
 ```
